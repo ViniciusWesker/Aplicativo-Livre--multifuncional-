@@ -1,0 +1,135 @@
+body{
+  background-color: LightSeaGreen;
+}
+
+#titulo{
+  margin-top: 5vh;
+  font-size: 10vh;
+}
+
+#img{
+  height: 40vh;
+  width: 60vw;
+   margin-top: 5vh;
+  border: solid 2px;
+}
+
+#open{
+  margin-top: 5vh;
+}
+
+.lista{
+  background-color: green;
+  width: 90vw;
+  color: white;
+  margin-left: 5vw;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.seta{
+  float: right;
+  cursor: pointer;
+}
+
+/* CALCULADORA */
+
+#fundo{
+  background-color: blue;
+}
+
+#calculadora{
+  background-color: darkblue;
+  border: solid 4px;
+  height: 70vh;
+  width: 80vw;
+}
+
+#resultado{
+  background-color: darkgreen;
+  color: white;
+  height: 8vh;
+  width: 60vw;
+  margin-top: 5vh;
+  font-size: 3vh;
+  text-align: right;
+}
+
+.botao{
+  background-color: rgb(24, 161, 207);
+  height: 5vh;
+  width: 14vw;
+  margin-top: 5vh;
+  margin-left: 4.5vw;
+  float: left;
+  cursor: pointer;
+  border: none;
+}
+.botao:hover{
+  background-color: cyan;
+}
+
+.botaov{
+  background-color: red;
+  height: 5vh;
+  width: 14vw;
+  margin-top: 5vh;
+  margin-left: 4.5vw;
+  float: left;
+  cursor: pointer;
+  border: none;
+}
+.botaov:hover{
+  background-color: cyan;
+}
+
+.botaoo{
+  background-color: blueviolet;
+  height: 5vh;
+  width: 14vw;
+  margin-top: 5vh;
+  margin-left: 4.5vw;
+  float: left;
+  cursor: pointer;
+  border: none;  
+}
+.botaoo:hover{
+  background-color: cyan;
+}
+
+.botaoi{
+  background-color: greenyellow;
+  height: 5vh;
+  width: 14vw;
+  margin-top: 5vh;
+  margin-left: 4.5vw;
+  float: left;
+  cursor: pointer;
+  border: none;  
+}
+.botaoi:hover{
+  background-color: cyan;
+}
+
+/* Regra de 3 */
+.campo{
+  width: 30vw;
+  text-align: center;
+}
+
+/* titulo */
+.texto{
+  color: white;
+}
+
+.texto2{
+  color: white;
+  margin-bottom: 2vh;
+}
+
+#tr3{
+  background-color: gray;
+  width: 80vw;
+  height: 45vh;
+  border-radius: 5%;
+}
